@@ -75,7 +75,7 @@ A Flutter implementation of login, sign up, and onboarding flows. Form validatio
 ## How to reach me
 
 [![GitHub](https://img.shields.io/badge/GitHub-mhmd2042-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhmd2042)
-[![Phone](https://img.shields.io/badge/Phone-%2B966%2057%20492%208486-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+966574928486)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/966574928486)
 [![Email](https://img.shields.io/badge/Email-aljylymhme%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aljylymhme@gmail.com)
 
 ---
